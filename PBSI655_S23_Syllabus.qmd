@@ -1,0 +1,169 @@
+---
+title: |
+  ![](images/TAM-PrimaryMarkA.png){width=75%}
+  Syllabus
+subtitle: |
+ Foundations in Cognitive Neuroscience
+format:
+  html:
+    toc: true
+    toc-location: left
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+author: "Joseph Orr"
+editor: visual
+---
+
+## Course Information
+
+Course Number: PSYC 655\
+Course Title: Foundations of Cognitive Neuroscience\
+Time: Monday 1:50-4:50p\
+Location: PSYC 336\
+Credit Hours: 3
+
+## Instructor Information
+
+Instructor: Joseph Orr\
+Office: PSYC 240\
+E-Mail: joseph.orr\@tamu.edu\
+Office Hours: by appointment
+
+## Course Description
+
+This course will provide students with a foundational knowledge of the field of cognitive neuroscience. Topics will include methods of cognitive neuroscience, mental simulation, attention, memory, decision making, affect, executive function, motor control, and others. Readings will come from both seminal and recent papers that have made significant contributions to our knowledge of the mind and brain.
+
+## Course Prerequisites
+
+Graduate classification
+
+## Course Learning Outcomes
+
+After completing this course, a successful student will be able to:
+
+-   list the major pros and cons of the major cognitive neuroscience methods
+
+-   identify major cortical brain areas and networks
+
+-   describe the leading theories of attention, memory, motor control, and executive function
+
+-   describe the neural mechanisms affected by major psychopathology
+
+## Textbook and/or Resource Materials
+
+Readings will be posted on Google Drive and will consist of journal articles and book chapters. Weekly reading will consist of 2-3 papers. Most weeks also have a chapter from the Principles of Neural Science. These are supplemental background readings. As preparation, Richard Passinghams's Cognitive Neuroscience: A Very Short Introduction is highly recommended. For future readings I would also recommend Russ Poldrack's The New Mind Readers: What Neuroimaging Can and Cannot Reveal about Our Thoughts.
+
+## Grading Policy
+
+Grades will be based on discussion posts, quizzes, and presentations.
+
+-   Discussion posts. Prior to each meeting, students will post a discussion response related to the readings (5 points each)
+
+-   In-class quiz. Quizzes will be on the readings to check overall comprehension. Quizzes will be done on canvas at the beginning of each class. These can be done on a phone, tablet or computer (5 point each class)
+
+-   Presentation and discussion leading. On the first day of class we will assign presenters for each article.  Each student will lead a discussion of 2-3 articles over the course of the semester depending on the enrollment. Students can sign up for articles on different dates or multiple articles on the same date.  Students should critically evaluate the material and stimulate discussion. The presenter should only be speaking for 50-60% of the time; participation and discussion by the whole class is expected. See the attached presentation grading rubric. (20 points each)
+
+### Grading Scale
+
+**Grading Scale**
+
+A = 140-160 points
+
+B = 120-139 points
+
+C = 100-119 points
+
+D = 80-99 points
+
+F = \<80 points
+
+## Course Schedule
+
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| Date       | Topic                   | Paper                                                                    | Presenter |
++============+=========================+==========================================================================+===========+
+| 1/23       | Background              | Albright, Kandel, Posner - Cognitive Neuroscience                        | Dr. Orr   |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Yarkoni et al - Cognitive neuroscience 2.0                               | Dr. Orr   |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 1/30       | Methods                 | Poldrack - Cognitive Processing Imaging                                  | Dr. Orr   |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Kappenman & Luck - ERP Overview                                          | Dr. Orr   |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Polanía - Brain Function Stimulation                                     | Dr. Orr   |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Wittman & D'Esposito - fMRI                                              | Dr. Orr   |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 2/6        | Development & Evolution | Grayson & Fair - Development of Brain Networks                           | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Crone & Steinbeis - Cognitive Control Development                        | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Herculano-Houzel - Remarkable Human Brain                                | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 2/13       | Affect                  | Banks - Amygdala-Frontal Connectivity                                    | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Sambrook & Goslin - ERP Rewards                                          | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Glazer et al - Beyond the FRN                                            | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 2/20       | Social Cognition        | Amodio - Neuroscience of Prejudice                                       | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Lieberman - Social Cognitive Neuroscience                                | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 2/27       | Decision Making         | Rushworth - Choice Values                                                | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Inzlicht - Effort (2 papers)                                             | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Brunec & Momennejad - Predictive Representations                         | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 3/6        | Psychopathology         | Chavanne & Robinson - Anxiety Meta Analysis                              | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Pando-Naude - Gray & White Matter in Addiction                           | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 3/13       | Spring Break            | Spring Break                                                             | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 3/20       | Executive Function      | Braver - Dual mechanisms of Control                                      | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Buschman Miller - Working Memory is Complex & Dynamic                    | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Helfrich & Knight - Oscillatory prefrontal dynamics in cognitive control | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 3/27 (tbd) | Consciousness           | Lau et al - History of Consciousness                                     | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Bayne et al - Levels of Consciousness                                    | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Brown et al. - Higher-Order Theories of Consciousness                    | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 4/3        | Language                | Crosson - Challenges of fMRI Methods for Language                        | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Hagoort - Syntax and Semantics During Sentence Processing                | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Costa - Bilingual Brain                                                  | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 4/10       | Memory                  | Eichenbaum - Cortical-Hippocampal System for Memory                      | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Ranganath & Ritchey - Two cortical systems for memory                    | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Schacter - Using the past to imagine the future                          | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 4/17       | Attention               | Chun & Turk-Browne - Interactions between attention & memory             | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Kastner & Ungerleider - Mechanisms of visual attention                   | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Uddin - Salience detection & the insula                                  | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 4/24       | Motor Control           | Doyon - Motor sequence learning                                          | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Ebbesen - Motor cortex - act or not act?                                 | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Verbruggen - Consensus guide to inhibition                               | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| 5/1        | Object Processing       | Freud - What in the dorsal pathway                                       | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+| \          | \                       | Grill-Spector - Functional architecture of ventral temporal cortex       | \         |
++------------+-------------------------+--------------------------------------------------------------------------+-----------+
+
+: Course schedule by week
